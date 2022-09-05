@@ -6,3 +6,4 @@
 5-firstlines Display the first 10 lines
 6-third_line Write a script that displays the third line of the file
 7-file script that creates a file named
+8-cwd_state script that writes into the file
