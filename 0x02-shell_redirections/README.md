@@ -7,3 +7,4 @@
 6-third_line Write a script that displays the third line of the file
 7-file script that creates a file named
 8-cwd_state script that writes into the file
+9-duplicate_last_line script that duplicates the last line of the file
